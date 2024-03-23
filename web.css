@@ -1,0 +1,361 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-page-logo-design-1 {
+    height: 64px;
+    width: 164px;
+}
+
+#naveitem1 {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+#naveitem2 {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+#naveitem3 {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+#naveitem4 {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+#naveitem5 {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.banner-carousel-page-design-1 {
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.products-page-design-1 {}
+
+.products-page-heading-design-1 {
+    color: #183b56;
+    font-size: 36px;
+    font-family: "Roboto";
+    font-weight: Bold;
+}
+
+.products-page-card-design-1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    height: 40vh;
+    border-radius: 15px;
+}
+
+.products-page-card-design-2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    height: 40vh;
+    border-radius: 15px;
+}
+
+.products-page-card-heading-design-1 {
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: Bold;
+}
+
+.products-page-card-para-design-1 {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+.products-page-card-button-design-1 {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+    border-style: solid;
+    background-color: #ffffff;
+    border-width: 1px;
+    border-color: #ffffff;
+    border-radius: 40px;
+}
+
+.products-page-icon-design-1 {
+    color: #ff9f00;
+}
+
+.products-page-icon-description-design-1 {
+    color: #ff9f00;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.products-page-modal-page-main-heading-design-1 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.products-page-modal-page-main-description-design-1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+.products-page-modal-page-heading-design-2 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.offers-page-design-1 {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.offers-page-offer-pic-design-1 {}
+
+.offers-page-heading-design-1 {
+    color: #ad2167;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: "Arial";
+}
+
+.offers-page-para1-design-1 {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.offers-page-span1-design-1 {
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+
+.explore-page-main-design-1 {
+    color: #183b56;
+    font-size: 34px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.explore-page-main1-design-1 {
+    color: #183b56;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.explore-page-design-1 {
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+
+.explore-page-card1-design-1 {
+    border-radius: 12px;
+}
+
+.explore-page-card1-image1-design-1 {
+    height: 104px;
+    width: 114px;
+    border-radius: 15px;
+}
+
+.explore-page-card2-image1-design-1 {
+    border-radius: 12px;
+    width: 85%;
+}
+
+.explore-page-card3-image1-design-1 {
+    height: 104px;
+    width: 104px;
+    border-radius: 15px;
+}
+
+.explore-page-main2-heading-design-1 {
+    color: #183b56;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Roboto";
+    padding-top: 12px;
+}
+
+.explore-page-card-icon-heading-and-arrowicon-design-1 {
+    color: #ff9f00;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Roboto";
+
+}
+
+.trending-page-design-1 {}
+
+.trending-page-main-heading-design-1 {
+    color: #183b56;
+    font-size: 34px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.trending-page-card-para1-design-1 {
+    color: #959ead;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+.trending-page-card-heading1-design-1 {
+    color: #183b56;
+    font-size: 23px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.trending-page-card-para2-design-1 {
+    color: #959ead;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+.trending-page-card-icon-description-design-1 {
+    color: #ff9f00;
+    font-size: 13px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.service-section-page-heading-design-1 {
+    color: #183b56;
+    font-size: 34px;
+    font-family: "Roboto";
+    font-weight: Bold;
+}
+
+.service-section-page-para-design-1 {
+    color: #616c7c;
+    font-size: 22px;
+    font-family: "Arial";
+    font-weight: normal;
+}
+
+.service-section-page-card-image-design-1 {
+    height: 94px;
+    width: 94px;
+}
+
+.service-section-page-card-image-design-2 {
+    height: 84px;
+    width: 84px;
+}
+
+.explore-page-contactus-design-1 {
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+
+.explore-page-contactus-heading-design-1 {
+    color: #183b56;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.explore-page-contactus-bottom-design-1 {
+    border-color: #ff9f00;
+    color: #ff9f00;
+    font-weight: 500;
+    border-width: 3px;
+    border-style: solid;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.service-section-page-card-heading-design-1 {
+    color: #183b56;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+.service-section-page-card-para-design-1 {
+    color: #7b8794;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+.footer-page-design-1 {
+    background-color: #0d2436;
+    background-size: cover;
+}
+
+.footer-page-image-design-1 {
+    height: 64px;
+    width: 160px;
+}
+
+.footer-page-icon-design-1 {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.footer-page-icon-design-2 {
+    color: #5a7184;
+    font-size: 17px;
+}
+
+.footer-page-icon-background-design-1 {
+    background-color: #152c3e;
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    padding-top: 6px;
+}
+
+.footer-page-address-design-1 {
+    color: #5a7184;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.footer-page-heading1-design-1 {
+    color: #5a7184;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.footer-page-heading2-design-1 {
+    color: #5a7184;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: "Roboto";
+}
+
+.footer-page-copyright-text-design-1 {
+    color: #5a7184;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "Roboto";
+}
